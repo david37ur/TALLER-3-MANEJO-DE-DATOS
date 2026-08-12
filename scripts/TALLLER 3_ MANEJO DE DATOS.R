@@ -156,3 +156,40 @@ base_final <- base_ciudad %>%
 # Visualizamos el resultado definitivo de la Tarea 4
 print("Resultado Tarea 4: Penetración de internet vs Población Municipal")
 head(base_final)
+
+
+# ------------------------------------------------------------------------------
+# TAREA 5: BASES DE DATOS PARA ANÁLISIS ESTADÍSTICO Y VISUALIZACIÓN
+# Objetivo: Crear una base "Larga" (PowerBI) y una base "Extensa" (Gráficos de dispersión)
+# Operaciones: Merge (Join) y Reshape Wide (Cast / pivot_wider)
+# ------------------------------------------------------------------------------
+
+# --- 5A. BASE LARGA (Para visualizar en PowerBI) ---
+# Tomamos la base de Tarea 3 (actividad por ciudad) y le hacemos Merge con la población limpia
+base_larga <- base_actividad_ciudad %>%
+  left_join(base_poblacion_limpia, by = c("Munic_Dept" = "Código Entidad")) %>%
+  
+  # Renombramos y organizamos las columnas para que queden idénticas al ejemplo de la clase
+  select(
+    divipola = Munic_Dept,
+    municipio = Entidad,
+    Actividad,
+    penetracion_internet,
+    poblacion_total
+  )
+
+print("Resultado Tarea 5A: Base Larga (Para PowerBI)")
+head(base_larga)
+
+
+# --- 5B. BASE EXTENSA (Para hacer gráficos de dispersión) ---
+# Tomamos la base larga y aplicamos un 'Cast' (pivot_wider) para poner las actividades en múltiples columnas
+base_extensa <- base_larga %>%
+  pivot_wider(
+    names_from = Actividad,
+    values_from = penetracion_internet,
+    names_prefix = "internet_" # Agrega el prefijo 'internet_' a las nuevas columnas
+  )
+
+print("Resultado Tarea 5B: Base Extensa (Para gráficos de dispersión)")
+head(base_extensa)
