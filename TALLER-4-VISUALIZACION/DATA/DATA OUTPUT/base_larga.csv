@@ -1,0 +1,109 @@
+"divipola","municipio","Actividad","penetracion_internet","poblacion_total"
+5088,"Bello","Ferretería y afines",1,647245
+5088,"Bello","Peluquería y belleza",0.842105263157895,647245
+5088,"Bello","Otras variedades",0.8,647245
+5088,"Bello","Servicios",0.75,647245
+5088,"Bello","Papelería y comunicaciones",0.75,647245
+5088,"Bello","Ropa",0.714285714285714,647245
+5088,"Bello","Comida preparada",0.7,647245
+5088,"Bello","Salud",0.625,647245
+5088,"Bello","Productos bajo inventario",0.454545454545455,647245
+5088,"Bello","Tienda",0.352941176470588,647245
+5088,"Bello","Vida nocturna",0,647245
+8001,"Barranquilla","Vida nocturna",1,1432276
+8001,"Barranquilla","Peluquería y belleza",0.882352941176471,1432276
+8001,"Barranquilla","Ferretería y afines",0.818181818181818,1432276
+8001,"Barranquilla","Papelería y comunicaciones",0.8,1432276
+8001,"Barranquilla","Salud",0.727272727272727,1432276
+8001,"Barranquilla","Productos bajo inventario",0.684210526315789,1432276
+8001,"Barranquilla","Servicios",0.631578947368421,1432276
+8001,"Barranquilla","Tienda",0.578947368421053,1432276
+8001,"Barranquilla","Comida preparada",0.55,1432276
+8001,"Barranquilla","Otras variedades",0.5,1432276
+8001,"Barranquilla","Ropa",0.25,1432276
+11001,"Bogotá","Vida nocturna",1,8836357
+11001,"Bogotá","Papelería y comunicaciones",0.846153846153846,8836357
+11001,"Bogotá","Productos bajo inventario",0.8,8836357
+11001,"Bogotá","Otras variedades",0.769230769230769,8836357
+11001,"Bogotá","Comida preparada",0.739130434782609,8836357
+11001,"Bogotá","Tienda",0.705882352941177,8836357
+11001,"Bogotá","Salud",0.666666666666667,8836357
+11001,"Bogotá","Ferretería y afines",0.625,8836357
+11001,"Bogotá","Ropa",0.571428571428571,8836357
+11001,"Bogotá","Peluquería y belleza",0.5,8836357
+11001,"Bogotá","Servicios",0.4375,8836357
+25307,"Girardot","Papelería y comunicaciones",0.916666666666667,114955
+25307,"Girardot","Peluquería y belleza",0.777777777777778,114955
+25307,"Girardot","Servicios",0.75,114955
+25307,"Girardot","Salud",0.714285714285714,114955
+25307,"Girardot","Vida nocturna",0.636363636363636,114955
+25307,"Girardot","Comida preparada",0.633333333333333,114955
+25307,"Girardot","Ferretería y afines",0.5,114955
+25307,"Girardot","Tienda",0.288461538461538,114955
+25307,"Girardot","Ropa",0,114955
+25307,"Girardot","Otras variedades",0,114955
+25754,"Soacha","Vida nocturna",1,894300
+25754,"Soacha","Ropa",0.875,894300
+25754,"Soacha","Productos bajo inventario",0.866666666666667,894300
+25754,"Soacha","Peluquería y belleza",0.833333333333333,894300
+25754,"Soacha","Servicios",0.818181818181818,894300
+25754,"Soacha","Otras variedades",0.75,894300
+25754,"Soacha","Papelería y comunicaciones",0.6875,894300
+25754,"Soacha","Salud",0.666666666666667,894300
+25754,"Soacha","Comida preparada",0.541666666666667,894300
+25754,"Soacha","Ferretería y afines",0.5,894300
+25754,"Soacha","Tienda",0.25,894300
+25899,"Zipaquirá","Papelería y comunicaciones",1,176372
+25899,"Zipaquirá","Vida nocturna",1,176372
+25899,"Zipaquirá","Salud",1,176372
+25899,"Zipaquirá","Servicios",0.9,176372
+25899,"Zipaquirá","Tienda",0.857142857142857,176372
+25899,"Zipaquirá","Comida preparada",0.769230769230769,176372
+25899,"Zipaquirá","Peluquería y belleza",0.75,176372
+25899,"Zipaquirá","Productos bajo inventario",0.733333333333333,176372
+25899,"Zipaquirá","Otras variedades",0.7,176372
+25899,"Zipaquirá","Ropa",0.666666666666667,176372
+41001,"Neiva","Peluquería y belleza",1,434125
+41001,"Neiva","Ropa",1,434125
+41001,"Neiva","Papelería y comunicaciones",1,434125
+41001,"Neiva","Vida nocturna",1,434125
+41001,"Neiva","Salud",1,434125
+41001,"Neiva","Productos bajo inventario",0.941176470588235,434125
+41001,"Neiva","Otras variedades",0.9375,434125
+41001,"Neiva","Servicios",0.645161290322581,434125
+41001,"Neiva","Ferretería y afines",0.625,434125
+41001,"Neiva","Comida preparada",0.363636363636364,434125
+41001,"Neiva","Tienda",0.222222222222222,434125
+66001,"Pereira","Productos bajo inventario",1,540500
+66001,"Pereira","Salud",1,540500
+66001,"Pereira","Peluquería y belleza",0.666666666666667,540500
+66001,"Pereira","Ropa",0.666666666666667,540500
+66001,"Pereira","Papelería y comunicaciones",0.666666666666667,540500
+66001,"Pereira","Vida nocturna",0.666666666666667,540500
+66001,"Pereira","Comida preparada",0.631578947368421,540500
+66001,"Pereira","Otras variedades",0.6,540500
+66001,"Pereira","Servicios",0.571428571428571,540500
+66001,"Pereira","Tienda",0.48,540500
+66001,"Pereira","Ferretería y afines",0,540500
+68001,"Bucaramanga","Ferretería y afines",1,682778
+68001,"Bucaramanga","Salud",1,682778
+68001,"Bucaramanga","Ropa",0.952380952380952,682778
+68001,"Bucaramanga","Peluquería y belleza",0.9,682778
+68001,"Bucaramanga","Papelería y comunicaciones",0.875,682778
+68001,"Bucaramanga","Servicios",0.846153846153846,682778
+68001,"Bucaramanga","Otras variedades",0.8,682778
+68001,"Bucaramanga","Productos bajo inventario",0.75,682778
+68001,"Bucaramanga","Comida preparada",0.6,682778
+68001,"Bucaramanga","Vida nocturna",0.571428571428571,682778
+68001,"Bucaramanga","Tienda",0.285714285714286,682778
+73001,"Ibagué","Salud",0.857142857142857,615050
+73001,"Ibagué","Peluquería y belleza",0.8,615050
+73001,"Ibagué","Vida nocturna",0.8,615050
+73001,"Ibagué","Servicios",0.666666666666667,615050
+73001,"Ibagué","Ferretería y afines",0.666666666666667,615050
+73001,"Ibagué","Comida preparada",0.5,615050
+73001,"Ibagué","Otras variedades",0.5,615050
+73001,"Ibagué","Papelería y comunicaciones",0.444444444444444,615050
+73001,"Ibagué","Productos bajo inventario",0.333333333333333,615050
+73001,"Ibagué","Tienda",0.307692307692308,615050
+73001,"Ibagué","Ropa",0.111111111111111,615050
